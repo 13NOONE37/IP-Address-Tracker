@@ -1,4 +1,4 @@
-# Frontend Mentor - Calculator app
+# Frontend Mentor - IP Address Tracker
 
 ![Design preview for the Calculator app coding challenge](./screenshot.jpg)
 
